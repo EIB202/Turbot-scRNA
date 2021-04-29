@@ -6,5 +6,5 @@ We used 10X scRNA-Seq to investigate gene expression dynamics and cell type chan
 
 # Reference genome
 We performed iso-seq to improve the genome annotation with full-length mRNA evidence pooled from leukocytes of spleens and posterior intestines at steady stage and 7-dpi.
-Iso-seq raw data can be obtained from GEO:
+Iso-seq raw data can be obtained from GEO:  
 Modified reference genome can be obtained from https://github.com/EIB202/Turbot-scRNA/releases/  
