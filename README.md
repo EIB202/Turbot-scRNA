@@ -1,5 +1,5 @@
 # Fish immune cell landscape
-We used 10X scRNA-Seq to investigate gene expression dynamics and cell type changes in four turbot immuno-organs (gill, head kidney, posterior intestine and spleen) during infection. In total, 103,055 high quality leukocytes were characterized. Our results not only provide a useful resource for the study of fish immune system, but also uncover the origins of adaptive immunity throughout vertebrate evolution.
+We used 10X scRNA-Seq to investigate gene expression dynamics and cell type changes in four turbot immuno-organs (gill, head kidney, posterior intestine and spleen) during infection. In total, 103,055 high quality leukocytes were characterized.
 
 # Raw data of 10X scRNA-Seq
 10X scRNA-Seq Raw data can be obtained from GEO:
